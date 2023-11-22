@@ -10,6 +10,10 @@ Github Link:
 
 https://github.com/haidersherazi/HomeTask2
 
+Youtube Video Link:
+
+https://www.youtube.com/watch?v=xOqGzPgOgwE
+
 Task Details:
 
 Multi user access to the charging station – external users who could book timeslot and be part of the prioritized queue, administrators. Create metadata for your project and handling logs.
