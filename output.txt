@@ -1,6 +1,8 @@
-Team Members
-
-Name: Syed Muhammad Haider Ali Sherazi (Enrolment/Student No: 7219530)
-Name: Muhammad Tallal Bin Shahid (Enrolment/Student No: 7219428)
-Name: Tazeen Zahra Kazmi (Enrolment/Student No: 7219531)
-Name: Hamid Zaib (Enrolment/Student No: 7219189)
+November 20, 2023 08:12:30     Reserve Battery of User-1 vehicle has started charging at this station.
+November 20, 2023 08:12:35     Reserve Battery of User-1 vehicle has finished charging at this station.
+November 20, 2023 08:12:37     Reserve Battery of User-3 vehicle has started charging at this station.
+November 20, 2023 08:12:42     Reserve Battery of User-3 vehicle has finished charging at this station.
+November 20, 2023 08:12:42     Reserve Battery of User-6 vehicle has started charging at this station.
+November 20, 2023 08:12:47     Reserve Battery of User-6 vehicle has finished charging at this station.
+November 20, 2023 08:12:47     Reserve Battery of User-7 vehicle has started charging at this station.
+November 20, 2023 08:12:52     Reserve Battery of User-7 vehicle has finished charging at this station.
